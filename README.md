@@ -37,7 +37,7 @@ Nome:
 ID da Instância: i-9a8b7c6d5e4f3210
 IP Público: 
 -------------------------------------
-```bash
+```
 
 ## Contribuição
 Sinta-se à vontade para abrir um problema (issue) ou enviar uma solicitação de pull (pull request) para melhorias ou correções neste script.
