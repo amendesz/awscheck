@@ -1,6 +1,6 @@
 # Script AWS para listar instâncias EC2 e RDS em várias regiões
 
-Este é um script em bash que utiliza o AWS CLI para listar informações sobre as instâncias EC2 e RDS em todas as regiões disponíveis na conta da AWS. Ele exibirá o nome, o ID da instância e o IP público das instâncias EC2, e o nome e o status das instâncias RDS em cada região.
+Este é um script em bash que utiliza o AWS CLI para listar informações sobre as instâncias EC2 e RDS em todas as regiões disponíveis na conta da AWS. Ele exibirá o nome, o ID da instância e o IP público das instâncias EC2, e o nome e o status das instâncias RDS em cada região com cores verdes e vermelhas respectivamente para o estado 'running' ou 'stopped'.
 
 ## Requisitos
 
